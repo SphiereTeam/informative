@@ -26,6 +26,7 @@
 		endif; ?>
 	</header><!-- .entry-header -->
 
+<<<<<<< HEAD
 
  <a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars"></i></a>
     <nav id="sidebar-wrapper">
@@ -338,6 +339,8 @@
     </script>
 
 </body>
+=======
+>>>>>>> 5cf74c6bf4d07a71804f6a78a78e299cf0fc2cdc
 	<div class="entry-content">
 		<?php
 			the_content( sprintf(
