@@ -25,10 +25,18 @@
 		<?php
 		endif; ?>
 	</header><!-- .entry-header -->
+<body>
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 
  <a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars"></i></a>
+=======
+ <body>
+
+    <!-- Navigation -->
+    <a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars"></i></a>
+>>>>>>> suryafi
     <nav id="sidebar-wrapper">
         <ul class="sidebar-nav">
             <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
@@ -166,28 +174,44 @@
                         <div class="col-md-6">
                             <div class="portfolio-item">
                                 <a href="#">
+<<<<<<< HEAD
                                     <img class="img-portfolio img-responsive" src="img/portfolio-1.jpg">
+=======
+                                    <img class="img-portfolio img-responsive" src="wp-content/themes/informative/img/portfolio-1.jpg">
+>>>>>>> suryafi
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="portfolio-item">
                                 <a href="#">
+<<<<<<< HEAD
                                     <img class="img-portfolio img-responsive" src="img/portfolio-2.jpg">
+=======
+                                    <img class="img-portfolio img-responsive" src="wp-content/themes/informative/img/portfolio-2.jpg">
+>>>>>>> suryafi
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="portfolio-item">
                                 <a href="#">
+<<<<<<< HEAD
                                     <img class="img-portfolio img-responsive" src="img/portfolio-3.jpg">
+=======
+                                    <img class="img-portfolio img-responsive" src="wp-content/themes/informative/img/portfolio-3.jpg">
+>>>>>>> suryafi
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="portfolio-item">
                                 <a href="#">
+<<<<<<< HEAD
                                     <img class="img-portfolio img-responsive" src="img/portfolio-4.jpg">
+=======
+                                    <img class="img-portfolio img-responsive" src="wp-content/themes/informative/img/portfolio-4.jpg">
+>>>>>>> suryafi
                                 </a>
                             </div>
                         </div>
@@ -259,10 +283,17 @@
     </footer>
 
     <!-- jQuery -->
+<<<<<<< HEAD
     <script src="js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
+=======
+    <script src="wp-content/themes/informative/js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="wp-content/themes/informative/js/bootstrap.min.js"></script>
+>>>>>>> suryafi
 
     <!-- Custom Theme JavaScript -->
     <script>
@@ -339,8 +370,13 @@
     </script>
 
 </body>
+<<<<<<< HEAD
 =======
 >>>>>>> 5cf74c6bf4d07a71804f6a78a78e299cf0fc2cdc
+=======
+
+</body>
+>>>>>>> suryafi
 	<div class="entry-content">
 		<?php
 			the_content( sprintf(
